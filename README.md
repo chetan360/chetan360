@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Mankar</h1>
 <h3 align="center">A passionate full stack & java developer from India.</h3><br>
 
-<img width="500" align="right" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="animated"/>
+<img width="400" align="right" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="animated"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan360&label=Profile%20views&color=0e75b6&style=flat" alt="chetan360" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@chetanmankar14" target="blank"><img src="https://img.shields.io/twitter/follow/@chetanmankar14?logo=twitter&style=for-the-badge" alt="@chetanmankar14" /></a> </p>
