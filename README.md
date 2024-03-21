@@ -5,7 +5,7 @@
 <img width="400" align="right" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="animated"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan360&label=Profile%20views&color=0e75b6&style=flat" alt="chetan360" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@chetanmankar14" target="blank"><img src="https://img.shields.io/twitter/follow/@chetanmankar14?logo=twitter&style=for-the-badge" alt="@chetanmankar14" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chetanmankar14" target="blank"><img src="https://img.shields.io/twitter/follow/@chetanmankar14?logo=twitter&style=for-the-badge" alt="@chetanmankar14" /></a> </p>
 
 - 🔭 I’m currently working on [Platformer-Game](https://github.com/chetan360/Platformer-Game)
 
@@ -25,11 +25,11 @@
 
 # 🧑‍🤝‍🧑🤝 Connect With Me
 <p align="left">
-<a href="https://codepen.io/@chetan-mankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chetan-mankar" height="30" width="40" /></a>
+<a href="https://codepen.io/chetan-mankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chetan-mankar" height="30" width="40" /></a>
 <a href="https://dev.to/chetan360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chetan360" height="30" width="40" /></a>
 <a href="https://twitter.com/@chetanmankar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chetanmankar14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chetan-mankar-934a622a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-mankar-934a622a6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chetan360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chetan360" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/chetan360](https://stackoverflow.com/users/22638944/chetan-mankar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chetan360" height="30" width="40" /></a>
 <a href="https://codesandbox.com/chetan360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="chetan360" height="30" width="40" /></a>
 <a href="https://kaggle.com/chetanmankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chetanmankar" height="30" width="40" /></a>
 <a href="https://fb.com/chetan.mankar.77736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chetan.mankar.77736" height="30" width="40" /></a>
