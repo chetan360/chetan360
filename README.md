@@ -13,13 +13,9 @@
 
 - 👯 I’m looking to collaborate on [Platformer-Game](https://github.com/chetan360/Platformer-Game)
 
-- 🤝 I’m looking for help with [Platformer-Game](https://github.com/chetan360/Platformer-Game)
-
 - 💬 Ask me about **Game Dev., Web Dev.**
 
 - 📫 How to reach me **chetansmankar360@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😅❤️**
   
 <br>
 
